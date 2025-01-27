@@ -1,0 +1,35 @@
+.about-section {
+  border: 1px solid red;
+  width: 100vw;
+  height: 65vh;
+  padding: 50px;
+}
+.about-div {
+  border: 1px solid rgb(115, 255, 0);
+  background: #ffcc02;
+  display: flex;
+  border-radius: 10px;
+}
+.info-sec {
+  /* border: 1px solid rgb(0, 174, 255); */
+  padding: 100px;
+  width: 60%;
+  padding: 10px;
+}
+.info-sec h2 {
+    font-family: "Road Rage", serif;
+    font-style: italic;
+    /* line-height: 150px; */
+    font-size: 80px;
+    font-weight: normal;
+}
+.img-sec {
+  /* border: 1px solid rgb(98, 0, 255); */
+  width: 40%;
+  height: 50vh;
+  text-align: right;
+}
+.img-sec img {
+  width: 80%;
+  margin-right: -15px;
+}
